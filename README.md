@@ -29,7 +29,7 @@ Thank you for stopping by my profile! **I'm Sethu**, currently pursuing third ye
   <br>
   <div align="center">
     <a href="https://www.hackerrank.com/gsethu63" targer="_blank"><img height="25" alt="Sethu's Codechef" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-   badge&logo=HackerRank&logoColor=white"/></a>&ensp;
-    <a href="https://www.codechef.com/users/shikhar321" targer="_blank"><img height="25" alt="Sethu's Codechef" src="https://cp-logo.vercel.app/codechef/shikhar321?logo=true"/></a>&ensp;
+    <a href="https://www.codechef.com/users/sethugs63" targer="_blank"><img height="25" alt="Sethu's Codechef" src="https://cp-logo.vercel.app/codechef/shikhar321?logo=true"/></a>&ensp;
     <a href="https://codeforces.com/profile/setgs63" targer="_blank"><img alt="Sethu's Codeforces" height="25" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
   </div>
 - Languages and Tools :
