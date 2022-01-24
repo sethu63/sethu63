@@ -2,9 +2,9 @@
 Thank you for stopping by my profile! **I'm Sethu**, currently pursuing third year of my under-graduation in Computer Science & Engineering from **BVRIT**, Narsapur. I strive to learn something new everyday, polish my skills, workout and surround myself with like minded people.
 - I'm currently learning Front End Development
 - How to reach me:
-    <div align="center"> <a href="mailto:gsethu63@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <div align="center"> <a href="mailto:gsethu63@gmail.com" targer="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   &ensp;&ensp;
-     <a href="https://twitter.com/gseth63"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+     <a href="https://twitter.com/gseth63" targer="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
     </div>
  <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=sethu63&&show_icons=true&title_color=726A95&icon_color=864879&text_color=719FB0&bg_color=151515"><br>
@@ -19,7 +19,7 @@ Thank you for stopping by my profile! **I'm Sethu**, currently pursuing third ye
 - 💬 Ask me about Java.
 - 📫 How to reach me:<br>
   <div align="center">
-       <a href="https://www.linkedin.com/in/sethugs/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+       <a href="https://www.linkedin.com/in/sethugs/" targer="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
        &ensp;
        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img>
   </div>                     
@@ -28,9 +28,9 @@ Thank you for stopping by my profile! **I'm Sethu**, currently pursuing third ye
 - ⚡ Fun fact: **It's all 0's and 1's.**
   <br>
   <div align="center">
-    <a href="https://www.hackerrank.com/gsethu63"><img height="25" alt="Sethu's Codechef" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-   badge&logo=HackerRank&logoColor=white"/></a>&ensp;
-    <a href="https://www.codechef.com/users/shikhar321"><img height="25" alt="Sethu's Codechef" src="https://cp-logo.vercel.app/codechef/shikhar321?logo=true"/></a>&ensp;
-    <a href="https://codeforces.com/profile/setgs63"><img alt="Sethu's Codeforces" height="25" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
+    <a href="https://www.hackerrank.com/gsethu63" targer="_blank"><img height="25" alt="Sethu's Codechef" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-   badge&logo=HackerRank&logoColor=white"/></a>&ensp;
+    <a href="https://www.codechef.com/users/shikhar321" targer="_blank"><img height="25" alt="Sethu's Codechef" src="https://cp-logo.vercel.app/codechef/shikhar321?logo=true"/></a>&ensp;
+    <a href="https://codeforces.com/profile/setgs63" targer="_blank"><img alt="Sethu's Codeforces" height="25" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
   </div>
 - Languages and Tools :
 <br>
