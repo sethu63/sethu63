@@ -4,7 +4,7 @@ Thank you for stopping by my profile! **I'm Sethu**, currently pursuing third ye
 - How to reach me:
     <div align="center"> <a href="mailto:gsethu63@gmail.com" targer="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   &ensp;&ensp;
-     <a href="https://twitter.com/gseth63" targer="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+     <a href="https://twitter.com/gsethu63" targer="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
     </div>
  <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=sethu63&&show_icons=true&title_color=726A95&icon_color=864879&text_color=719FB0&bg_color=151515"><br>
