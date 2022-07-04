@@ -23,7 +23,6 @@ Thank you for stopping by my profile! **I'm Sethu**, currently pursuing third ye
        &ensp;
        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img>
   </div>                     
-- 😄 Pronouns: he/him.
   <br>
 - ⚡ Fun fact: **It's all 0's and 1's.**
   <br>
